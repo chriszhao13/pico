@@ -3,9 +3,11 @@
 ---
 Software requirement
 -----
-gcc
+GCC
+
 CUDA
-Cmake
+
+CMAKE
 
 ---
 Hardware
@@ -48,7 +50,7 @@ make
 Reference
 -------
 
-If you use Pico in your project, please cite the following paper.
+If you use PICO in your project, please cite the following paper.
 
 @inproceedings{icde2024
 under review
