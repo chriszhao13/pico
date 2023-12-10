@@ -39,7 +39,6 @@ cmake ..
 make
 ./peelone ./data/example.txt
 #  For Parallel Peel-dyn vs PeelOne-dyn
-```bash
 cd ./pico
 make
 ./peelone_dyn  ./data/example.txt
